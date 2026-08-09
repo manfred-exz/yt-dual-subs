@@ -1,3 +1,9 @@
+# Fork with Firefox Support
+
+- This fork supports Firefox 128+. 
+- Usage: Open `about:debugging` → **This Firefox** → **Load Temporary Add-on...**, then select this repository's `manifest.json`. 
+- The temporary installation is removed when Firefox restarts.
+
 <div align="center">
 
 <a href="https://gythiro.github.io/yt-dual-subs/"><img src="https://gythiro.github.io/yt-dual-subs/img/icon128.png" width="110" alt="Dual Subtitles for YouTube icon"></a>
